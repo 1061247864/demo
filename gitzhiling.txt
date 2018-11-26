@@ -8,3 +8,4 @@ git --global user.name username;
 git --global user.email useremail;
 git config --list
 git commit -m''
+git add . 提交全部
