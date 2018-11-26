@@ -1,0 +1,10 @@
+﻿git init 初始化
+git add filename;
+git commit filename;
+git commit -m 'first commit filename'
+git log 日志
+git status 
+git --global user.name username;
+git --global user.email useremail;
+git config --list
+git commit -m''
